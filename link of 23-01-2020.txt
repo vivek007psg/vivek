@@ -1,0 +1,38 @@
+what are the different types of architecture that we can use while implementing a chatbot using tensorflow
+
+
+https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2
+
+
+which approches to use while using elmo representation
+
+
+https://towardsdatascience.com/elmo-helps-to-further-improve-your-word-embeddings-c6ed2c9df95f
+
+
+https://medium.com/@hyponymous/paper-summary-deep-contextualized-word-representations-elmo-319012237f03
+
+
+
+various types of neural network architecture for building a conversational chatbot
+
+
+
+https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e
+
+
+https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278
+
+
+http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+
+https://chatbotsmagazine.com/maintaining-context-in-chatbots-2016b6a5b7c6
+
+
+https://www.mihaileric.com/posts/deep-contextualized-word-representations-elmo/
+
+https://www.mihaileric.com/posts/deep-contextualized-word-representations-elmo/
+
+how to implement elmo in recurrent neural network architecture
+
+https://towardsdatascience.com/semantic-code-search-3cd6d244a39c
